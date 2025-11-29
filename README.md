@@ -5,14 +5,13 @@
 </p>
 
 <p align="center">
-  <em>Desenvolvedor apaixonado por criar soluções e aprender novas tecnologias.</em>
+  <em>Estudante apaixonado por criar soluções e aprender novas tecnologias.</em>
 </p>
 
 ---
 
 ### 🚀 Sobre Mim
 - 🔭 Atualmente trabalhando em **projetos pessoais e estudos**.
-- 🌱 Focando em **Python, C e JavaScript**.
 - 📫 Contato: **franciscomartinsb0@gmail.com**
 
 ---
@@ -27,16 +26,6 @@
 
 ---
 
-### 📊 Minhas Estatísticas
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brrtw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrtw&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrtw&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brrtw&theme=dracula" alt="Repos per language" />
 </div>
