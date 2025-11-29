@@ -38,5 +38,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/brrtw/brrtw/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrtw&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
 </div>
