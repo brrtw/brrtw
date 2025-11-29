@@ -1,27 +1,24 @@
-<h1 align="center">Olá, eu sou o Francisco! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+# brrtw
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brrtw&label=Profile%20Views&color=0e75b6&style=flat" alt="brrtw" />
-</p>
+> *Desenvolvedor de Software focado em eficiência e algoritmos.*
 
 ---
 
-### 🚀 Sobre Mim
-- 🔭 Atualmente trabalhando em **projetos pessoais e estudos**.
-- 📫 Contato: **franciscomartinsb0@gmail.com**
+### 👨‍💻 Sobre mim
+- 🔭 Foco atual: **C, Assembly e Python**.
+- 🌱 Estudando: **Arquitetura de Computadores e Engenharia de Software**.
+- 🧠 Interesse em desenvolvimento Low-level e Web.
 
----
-
-### 🛠 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+### 🛠 Tecnologias
+<div align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brrtw&theme=dracula" alt="Repos per language" />
-</div>
+### 📫 Contato
+- [**Email**](mailto:seu-email@exemplo.com)
+- [**LinkedIn**](https://linkedin.com/in/seu-usuario)
